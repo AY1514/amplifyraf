@@ -7,10 +7,7 @@ function App() {
       <header className="App-header">
         <h1>Galatians 2:20</h1>
         <p>
-        I have been tcrucified with Christ. 
-        It is no longer I who live, but Christ who lives uin me. 
-        And the life I now live in the flesh I live by faith in the Son of God,
-        vwho loved me and wgave himself for me.
+        I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
         </p>
         <img src={logo} className="App-logo" alt="logo" />
         <a
